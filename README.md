@@ -3,7 +3,7 @@ Despite its growing awareness, sustainability often feels confusing, overwhelmin
 
 Odyssey is a gamified mobile application designed to encourage sustainable living through a series of interactive challenges and engaging storytelling.  Over 30 days, users progress through six chapters, each focusing on a different aspect of sustainability, completing daily quests to unlock new content and ultimately achieve a greener lifestyle.
 
-By Abdullah Naim, Harouna Thiam, Adam Lele, and Yasser Meena
+By Abdullah Naim, Harouna Thiam, and Adam Lele
 
 ## Features
 * **Interactive Storytelling:** Immersive narratives within each chapter engage users and explain the importance of sustainable practices.
