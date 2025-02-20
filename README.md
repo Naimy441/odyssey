@@ -1,4 +1,6 @@
 # Odyssey: A 30-Day Sustainability Journey
+Despite its growing awareness, sustainability often feels confusing, overwhelming, and, for many, unengaging. However, 77% of consumers want to adopt eco-friendly habits (Forbes 2019), yet existing approaches—like flyers and classes—fail to provide actionable, engaging steps. Odyssey is a 30-day challenge app that makes sustainability fun! Each day, complete eco-friendly Quests to reduce waste, save energy, and advocate for the planet. Gamified, AI-powered, and impactful!
+
 Odyssey is a gamified mobile application designed to encourage sustainable living through a series of interactive challenges and engaging storytelling.  Over 30 days, users progress through six chapters, each focusing on a different aspect of sustainability, completing daily quests to unlock new content and ultimately achieve a greener lifestyle.
 
 By Abdullah Naim, Harouna Thiam, Adam Lele, and Yasser Meena
